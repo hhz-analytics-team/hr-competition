@@ -13,5 +13,3 @@ Verfügbare Attribute:
 - department: Abteilung, für die gearbeitet wird
 - salary: relativer Gehaltslevel 
 - left: Wurde gekündigt?
-	
-	
